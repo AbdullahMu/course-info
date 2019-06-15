@@ -33,20 +33,20 @@
     - [Misk Academy Slack](https://miskacademy.slack.com)
   - For informal communication that doesn't need to be private, use the `dsi-4-students` channel
   - You may contact the Instructional Associates and the Lead Instructors on Slack privately for course progress sensitive matters. They will be answered during hours (9am-5pm, Sun-Thur)
-  -Instructors: [Abdulrahman Baqais](https://miskacademy.slack.com/messages/DBWLD42VB) & [Esraa Madi](https://miskacademy.slack.com/messages/DBZE4375L)
+  -Instructors: [Abdulrahman Baqais](https://miskacademy.slack.com/messages/DKHGJPB46/) & [Esraa Madi](https://miskacademy.slack.com/messages/DBPTT0GAG/)
 
 ## Office Hours
 
- Schedule office hours with [Khalid](https://khalidalrasheed.youcanbook.me/) & [Muhammed]()
+ Schedule office hours with [Khalid](https://khalidalrasheed.youcanbook.me/) & [Muhammed](https://engmuhammadhakami.youcanbook.me/)
 
 
 ## Lessons tickets
 
- Lessons tickets will be filled out at the end of each lesson: [LINK](https://docs.google.com/forms/d/e/1FAIpQLSf_7a-Pe5eZK8jnuRe86N97wuUtR3T7noEjoLoGjprnKEVFTw/viewform?usp=sf_link)
+ Lessons tickets will be filled out at the end of each lesson: [LINK](https://forms.gle/U1TBWKpYd81Xmcbx5)
 
 ## Exit tickets
 
-Exit tickets will be filled out at the end of each week: [LINK](https://docs.google.com/forms/d/e/1FAIpQLSf6B7qjyuUM6sAMM5XpNeYt0rQNBG8QTmmod_UbfZL5tF9Ngg/viewform?usp=sf_link)
+Exit tickets will be filled out at the end of each week: [LINK](https://forms.gle/FgvjQ6gMCqrE7YNx6)
 
 
 
